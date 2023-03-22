@@ -1,6 +1,6 @@
 # HALO: Hardware-Aware Learning to Optimize
 
-Accepted at ECCV 2020 [[Paper](https://dl.acm.org/doi/abs/10.1007/978-3-030-58545-7_29) 
+Accepted at ECCV 2020 | [Paper](https://dl.acm.org/doi/abs/10.1007/978-3-030-58545-7_29) 
 
 ## Setup
 ```

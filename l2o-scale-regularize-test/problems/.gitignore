@@ -1,0 +1,11 @@
+UCI HAR Dataset.zip
+wisdm-dataset.zip
+__pycache__/*
+WISDM/*
+wisdm-dataset/*
+UCI_HAR_Dataset/*
+aclImdb/*
+SML2010/*
+Dataset/*
+WESAD/*
+SML_config_adapt.json
